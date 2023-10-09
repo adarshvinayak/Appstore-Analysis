@@ -1,16 +1,16 @@
-# Appstore-Analysis
+# Unlocking App Store Insights: A Data-Driven Exploration
 
 ### About Apple App Store
 
 The Apple App Store is a digital distribution platform developed by Apple Inc. It allows users to browse and download applications (apps) for their iOS devices.
 
-### <a href= Dataset
+### Dataset
 
 For this project, two datasets were used:
 
-- **AppleStore**: This dataset contains information about various apps available on the Apple App Store, including details such as app name, user ratings, genre, and pricing.
+- <a href=" **AppleStore**: This dataset contains information about various apps available on the Apple App Store, including details such as app name, user ratings, genre, and pricing.
 
-- **AppleStore_description_combined**: This dataset includes app descriptions, which were combined from multiple sources to enrich the analysis.
+- <a href=" **AppleStore_description_combined**: This dataset includes app descriptions, which were combined from multiple sources to enrich the analysis.
 
 ### Problem Statement
 
