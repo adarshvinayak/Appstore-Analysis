@@ -1,4 +1,4 @@
-# Unlocking App Store Insights: A Data-Driven Exploration
+# Unlocking App Store Insights: A Data-Driven Exploration using SQL
 
 ### About Apple App Store
 
