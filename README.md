@@ -48,3 +48,4 @@ The objective of this project was to gain insights into app trends and patterns 
 - **High Competition Genres**:
   - Genres like GAMES and ENTERTAINMENT have the most ratings, indicating high competition.
 
+<a href=https://github.com/adarshvinayak/Appstore-Analysis/blob/main/Apple%20App%20Store%20Analysis.sql> <i> Code </a>
