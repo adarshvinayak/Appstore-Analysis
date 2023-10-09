@@ -8,9 +8,9 @@ The Apple App Store is a digital distribution platform developed by Apple Inc. I
 
 For this project, two datasets were used:
 
-- <a href=" **AppleStore**: This dataset contains information about various apps available on the Apple App Store, including details such as app name, user ratings, genre, and pricing.
+- <a href=https://github.com/adarshvinayak/Appstore-Analysis/blob/main/AppleStore.csv> **AppleStore** </a>: This dataset contains information about various apps available on the Apple App Store, including details such as app name, user ratings, genre, and pricing.
 
-- <a href=" **AppleStore_description_combined**: This dataset includes app descriptions, which were combined from multiple sources to enrich the analysis.
+- <a href=https://github.com/adarshvinayak/Appstore-Analysis/blob/main/appleStore_description.zip> **AppleStore_description** </a>: This dataset includes app descriptions, which were combined from multiple sources to enrich the analysis.
 
 ### Problem Statement
 
